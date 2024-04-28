@@ -10,7 +10,7 @@
 
 ## 🌱 I am deepening my knowledge in
 - Angular
-- Doker/Cubernete
+- Doker/Kubernete
 
 ## 💬 Languages and Tools 
 - C#, ASP.NET, Winform
